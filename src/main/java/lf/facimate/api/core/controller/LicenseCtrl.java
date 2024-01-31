@@ -1,7 +1,6 @@
 package lf.facimate.api.core.controller;
 
 import lf.facimate.api.core.service.LicenseServ;
-import lf.facimate.api.core.vo.CommunityVO;
 import lf.facimate.api.core.vo.LicenseVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
